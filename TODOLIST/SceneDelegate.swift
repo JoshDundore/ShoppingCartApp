@@ -1,8 +1,5 @@
 //
 //  SceneDelegate.swift
-//  TODOLIST
-//
-//  Created by Kyle Woo on 12/11/21.
 //
 
 import UIKit
